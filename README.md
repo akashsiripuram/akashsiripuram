@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsiripuram&label=Profile%20views&color=0e75b6&style=flat" alt="akashsiripuram" /> </p>
 
-- 🔭 I’m currently working on [Forgetto](https://github.com/akashsiripuram/Forgetto)
 
 - 🌱 I’m currently learning **Web3,Devops**
 
@@ -25,5 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsiripuram&show_icons=true&locale=en&layout=compact" alt="akashsiripuram" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsiripuram&show_icons=true&locale=en" alt="akashsiripuram" /></p>
+
 
 
